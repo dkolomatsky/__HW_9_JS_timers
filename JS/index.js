@@ -52,7 +52,7 @@ startButton.onclick = () => {
       spanHours.innerText = "00";
       spanMinutes.innerText = "00";
     }
-  }, 100);
+  }, 1000);
   secundomer.classList.add("green");
 };
 
